@@ -14,11 +14,15 @@ Bara是一款专为追求高效生活方式的您设计的综合性管理应用�
 - 支持日、周、月、季度和年度等多维度目标设定
 - 里程碑式进展记录，让每一个小成就都清晰可见
 
+<img width="2600" height="1600" alt="image" src="https://github.com/user-attachments/assets/4a05c30d-8d11-4b5a-bc83-9444208be284" />
+
 ### 🔄 习惯养成
 - 科学设计习惯打卡系统，助您建立良好生活习惯
 - 可视化习惯养成进度，直观展示坚持的力量
 - 灵活的打卡记录管理，支持补卡和统计查询
 - 习惯关联提醒，帮助您在正确时间完成习惯动作
+
+<img width="2600" height="1600" alt="image" src="https://github.com/user-attachments/assets/4ccf5f1b-fa1d-4d68-b214-bfed658f1284" />
 
 ### 📝 笔记系统
 - 智能分类管理，让知识井然有序
@@ -26,11 +30,16 @@ Bara是一款专为追求高效生活方式的您设计的综合性管理应用�
 - 标签系统和优先级设置，快速定位关键信息
 - 状态管理功能，从草稿到发布的完整流程
 
+<img width="2600" height="1600" alt="image" src="https://github.com/user-attachments/assets/9e981606-c625-401c-9bb1-e375754368cf" />
+
+
 ### 📋 日常任务
 - 今日清单功能，聚焦当下最重要的事
 - 智能任务推荐，结合您的目标和习惯生成
 - 任务完成统计，量化每日成就
 - 时间段规划，让工作和生活更有节奏
+
+<img width="2600" height="1600" alt="image" src="https://github.com/user-attachments/assets/7544b2f9-019a-41cd-811c-fcc126981b98" />
 
 ## 产品特色
 

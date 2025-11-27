@@ -48,10 +48,14 @@ Bara是一款专为追求高效生活方式的您设计的综合性管理应用�
 - 丰富的统计图表，见证自己的成长轨迹
 - 多维度数据分析，深入了解个人习惯模式
 
+<img width="2682" height="1648" alt="image" src="https://github.com/user-attachments/assets/5f6cb812-b9c7-438e-843c-611ae22745ae" />
+
 ### 🎨 简洁优雅的设计
 - 现代化界面设计，操作直观流畅
 - 响应式布局，适配各种设备
 - 深色/浅色主题切换，满足不同场景需求
+
+<img width="2638" height="1626" alt="image" src="https://github.com/user-attachments/assets/5552b1b1-de65-44d7-a355-0794b63634d1" />
 
 ### 🔄 多平台支持
 - Web应用：随时随地访问，无需安装
